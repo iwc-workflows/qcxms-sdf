@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2026-02-19T19:20:55.344395",
+            "datePublished": "2026-03-03T19:08:25.850717",
             "hasPart": [
                 {
                     "@id": "QCxMS-Spectra-Prediction-from-SDF.ga"
@@ -64,7 +64,7 @@
             ],
             "creator": [
                 {
-                    "@id": "#ca6f234d-8ec0-44f0-851d-e87e55115236"
+                    "@id": "#284d4cc1-1a6d-44b9-afe3-c2a49d28a341"
                 },
                 {
                     "@id": "#0000-0001-6744-996X"
@@ -75,7 +75,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/qcxms-sdf",
-            "version": "0.2"
+            "version": "0.3"
         },
         {
             "@id": "#galaxy",
@@ -90,7 +90,7 @@
             "version": "v19_09"
         },
         {
-            "@id": "#ca6f234d-8ec0-44f0-851d-e87e55115236",
+            "@id": "#284d4cc1-1a6d-44b9-afe3-c2a49d28a341",
             "@type": "Organization",
             "name": "RECETOX"
         },
@@ -146,7 +146,7 @@
             "conformsTo": {
                 "@id": "https://w3id.org/ro/terms/test#PlanemoEngine"
             },
-            "engineVersion": ">=0.75.37"
+            "engineVersion": ">=0.75.39"
         },
         {
             "@id": "https://w3id.org/ro/terms/test#PlanemoEngine",
